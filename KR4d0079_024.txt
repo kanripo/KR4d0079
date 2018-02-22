@@ -7,8 +7,9 @@
 #+PROPERTY: JUAN 24
 #+PROPERTY: FILE SB04n0478-024經進東坡文集事略-卷第二十四.
 <pb:KR4d0079_SBCK_024-1a>¶
-¶
+# ?
 <pb:KR4d0079_SBCK_024-1b>¶
+# ?
 <pb:KR4d0079_SBCK_024-1b>¶
 經進東坡文集事略卷第二十四¶
 　　　迪功郎新紹興府&KR0792;縣主簿臣郎¶
