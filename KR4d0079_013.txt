@@ -7,8 +7,9 @@
 #+PROPERTY: JUAN 13
 #+PROPERTY: FILE SB04n0478-013經進東坡文集事略-卷第十三.
 <pb:KR4d0079_SBCK_013-1a>¶
-¶
+# ?
 <pb:KR4d0079_SBCK_013-1b>¶
+# ?
 <pb:KR4d0079_SBCK_013-1b>¶
 經進東坡文集事略卷第十三¶
 　　　迪功郎新紹興府&KR0792;縣主簿臣郎　曄　上進¶
